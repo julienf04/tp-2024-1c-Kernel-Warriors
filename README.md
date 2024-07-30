@@ -9,7 +9,7 @@ En esta materia, existe un TP (Trabajo Práctico) cuyo objetivo es afianzar todo
 
 Este repositorio contiene mi implementación/resolución del TP.
 
-Cualquier TP de esta materia, para aprobar, debe ser capaz de pasar unas pruebas que determinan si el sistema satisface o no los requerimientos. El sistema de este repositorio es capaz de pasar todas esas pruebas. Las pruebas son:
+Cualquier TP de esta materia, para aprobar, debe ser capaz de pasar unas pruebas que determinan si el sistema satisface o no los requerimientos. El sistema de este repositorio es capaz de pasar todas las pruebas necesarias. Las pruebas de este TP son:
 > [Pruebas del TP UTNSO 1C2024](https://docs.google.com/document/d/1XsBsJynoN5A9PTsTEaZsj0q3zsEtcnLgdAHOQ4f_4-g "Pruebas del TP UTNSO 1C2024")
 
 Mi grupo y yo, quienes diseñamos e implementamos el sistema, somos:
