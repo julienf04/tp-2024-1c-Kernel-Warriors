@@ -4,7 +4,7 @@
 
 La carrera de Ingeniería en Sistemas de Información tiene una materia llamada Sistemas Operativos, donde se explican los conceptos generales de los sistemas operativos, como por ejemplo, cómo los sistemas operativos administran las aplicaciones, la memoria, los archivos y las carpetas.
 
-En esta materia, existe un TP (Trabajo Práctico) cuyo objetivo es afianzar todos los conocimientos relacionados. Este TP consiste, resumidamente, en simular el comportamiento de un Sistema Operativo real, implementando en el lenguaje C ciertas funcionalidades dadas por un enunciado. El enunciado en cuestión es el siguiente:
+En esta materia, existe un TP (Trabajo Práctico) cuyo objetivo es afianzar todos los conocimientos relacionados. Este TP consiste, resumidamente, en simular el comportamiento de un Sistema Operativo real, implementando en el lenguaje C ciertas funcionalidades dadas por un enunciado. El enunciado de este TP es el siguiente:
 > [Enunciado del TP UTNSO 1C2024](https://docs.google.com/document/d/1-AqFTroovEMcA1BfC2rriB5jsLE6SUa4mbcAox1rPec "Enunciado del UTNTP 1C2024")
 
 Este repositorio contiene mi implementación/resolución del TP.
