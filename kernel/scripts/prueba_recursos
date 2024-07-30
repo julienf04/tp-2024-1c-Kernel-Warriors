@@ -1,0 +1,2 @@
+INICIAR_PROCESO tests/testRecurso1.txt
+INICIAR_PROCESO tests/testRecurso2.txt

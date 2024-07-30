@@ -1,0 +1,2 @@
+SET PC 0
+EXIT
