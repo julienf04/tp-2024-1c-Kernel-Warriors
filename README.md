@@ -1,15 +1,15 @@
-# TP Sistemas Operativos UTNSO 2024 1er cuatrimestre
+# TP Sistemas Operativos
+
+La carrera de Ingeniería en Sistemas de Información en la UTN tiene una materia llamada Sistemas Operativos, donde se explican los conceptos generales de los sistemas operativos, como por ejemplo, cómo los sistemas operativos administran las aplicaciones, la memoria, los archivos y las carpetas.
 
 > Cursé Sistemas Operativos el 1er cuatrimestre de 2024, así que hay cosas que pudieron haber cambiado a lo largo del tiempo.
-
-La carrera de Ingeniería en Sistemas de Información tiene una materia llamada Sistemas Operativos, donde se explican los conceptos generales de los sistemas operativos, como por ejemplo, cómo los sistemas operativos administran las aplicaciones, la memoria, los archivos y las carpetas.
 
 En esta materia, existe un TP (Trabajo Práctico) cuyo objetivo es afianzar todos los conocimientos relacionados. Este TP consiste, resumidamente, en simular el comportamiento de un Sistema Operativo real, implementando en el lenguaje C ciertas funcionalidades dadas por un enunciado. El enunciado de este TP es el siguiente:
 > [Enunciado del TP UTNSO 1C2024](https://docs.google.com/document/d/1-AqFTroovEMcA1BfC2rriB5jsLE6SUa4mbcAox1rPec "Enunciado del UTNTP 1C2024")
 
 Este repositorio contiene mi implementación/resolución del TP.
 
-Cualquier TP de esta materia, para aprobar, debe ser capaz de pasar unas pruebas que determinan si el sistema satisface o no los requerimientos. El sistema de este repositorio es capaz de pasar todas las pruebas necesarias. Las pruebas de este TP son:
+Cualquier TP de esta materia, para aprobar, debe ser capaz de pasar unas pruebas que determinan si el sistema satisface o no los requerimientos. El sistema de este repositorio es capaz de pasar todas las pruebas satisfactoriamente. Las pruebas de este TP son:
 > [Pruebas del TP UTNSO 1C2024](https://docs.google.com/document/d/1XsBsJynoN5A9PTsTEaZsj0q3zsEtcnLgdAHOQ4f_4-g "Pruebas del TP UTNSO 1C2024")
 
 Mi grupo y yo, quienes diseñamos e implementamos el sistema, somos:
