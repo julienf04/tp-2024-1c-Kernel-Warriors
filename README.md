@@ -35,7 +35,7 @@ Mi grupo y yo, quienes diseñamos e implementamos el sistema, somos:
 
 ------------
 
-> El texto anterior es un resumen del contexto del TP. El siguiente texto es el README.md original con el que nos presentaron el TP en un principio.
+> El texto anterior es un resumen del contexto del TP. El siguiente texto es el README.md original con el que nos lo presentaron en un principio.
 
 
 
