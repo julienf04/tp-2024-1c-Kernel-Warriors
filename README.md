@@ -1,21 +1,21 @@
 # TP Sistemas Operativos
 
-### ¿Cómo que Sistemas Operativos? Explicate pibe
+### ¿Sistemas Operativos?
 
-La carrera de Ingeniería en Sistemas de Información en la UTN tiene una materia llamada Sistemas Operativos, donde se explican los conceptos generales de los sistemas operativos (SO), como por ejemplo, cómo los SO administran las aplicaciones, la memoria, los archivos y las carpetas.
+La carrera de Ingeniería en Sistemas de Información en la UTN (Universidad Tecnológica Nacional) tiene una materia llamada Sistemas Operativos, donde se explican los conceptos generales de los SO (sistemas operativos), como por ejemplo, cómo los SO administran las aplicaciones, la memoria, los archivos y las carpetas.
 
-> Cursé Sistemas Operativos el 1er cuatrimestre de 2024, así que hay cosas que pudieron haber cambiado a lo largo del tiempo.
+> Cursé Sistemas Operativos el 1er cuatrimestre del 2024, así que hay cosas que pudieron haber cambiado a lo largo del tiempo.
 
-### ¿TP, qué es eso?
+### ¿TP?
 
-En esta materia, existe un TP (Trabajo Práctico) cuyo objetivo es afianzar todos los conocimientos relacionados. Este TP consiste, resumidamente, en simular el comportamiento de un SO, implementando en el lenguaje C ciertas funcionalidades dadas por un enunciado. El enunciado de este TP es el siguiente:
+En esta materia, existe un TP (Trabajo Práctico) cuyo objetivo es afianzar todos los conocimientos relacionados a los SO. Este TP consiste, resumidamente, en simular el comportamiento de un SO, implementando en el lenguaje C ciertas funcionalidades dadas por un enunciado. El enunciado para este TP es el siguiente:
 > [Enunciado del TP UTNSO 1C2024](https://docs.google.com/document/d/1-AqFTroovEMcA1BfC2rriB5jsLE6SUa4mbcAox1rPec "Enunciado del UTNTP 1C2024")
 
 Este repositorio contiene mi implementación/resolución del TP.
 
 ### ¿Cómo sé que el TP funciona?
 
-Cualquier TP de esta materia, para aprobar, debe ser capaz de pasar unas pruebas que determinan si el sistema satisface o no los requerimientos. El sistema de este repositorio es capaz de pasar todas las pruebas satisfactoriamente. Las pruebas de este TP son:
+Cualquier TP de esta materia, para aprobar, debe ser capaz de pasar unas pruebas que determinan si el sistema satisface o no los requerimientos. El sistema de este repositorio es capaz de pasar todas las pruebas satisfactoriamente. Las pruebas para este TP son:
 > [Pruebas del TP UTNSO 1C2024](https://docs.google.com/document/d/1XsBsJynoN5A9PTsTEaZsj0q3zsEtcnLgdAHOQ4f_4-g "Pruebas del TP UTNSO 1C2024")
 
 ### ¿Quiénes hicieron el TP?
@@ -35,7 +35,7 @@ Mi grupo y yo, quienes diseñamos e implementamos el sistema, somos:
 
 ------------
 
-> El texto anterior es un resumen que quise presentar. El siguiente texto es el README.md original que nos dejó la cátedra.
+> El texto anterior es un resumen del contexto del TP. El siguiente texto es el README.md original con el que nos presentaron el TP en un principio.
 
 
 
